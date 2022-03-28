@@ -1,0 +1,127 @@
+*{
+    margin:0;
+    padding:0;
+  
+}
+/* TOP */
+.top{
+    background-color: grey;
+    text-align: center;
+    width: 65%;
+    margin: auto;
+    padding:10px 20px;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+
+.nav h1{
+    font-size: 40px;
+}
+
+.nav input{
+    width: 300px;
+    height: 30px;
+}
+
+.login{
+    width: 75px;
+    height: 30px;
+    border: 2px solid black;
+    color: white;
+    background-color: blue;
+    box-shadow: 3px 3px black;
+}
+
+/* first */
+
+.first{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.layer{
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding:20px;
+    height: 150px;
+    margin: 20px;
+    width: 700px;
+    margin-left: 135px;
+    
+}
+
+.ninja{
+    
+    margin: 10px;
+    padding: 20px;
+    line-height: 1.5;
+}
+
+.likes{
+    margin-top: 30px;
+    width:100px;
+    height: 30px;
+    background-color: rgb(255, 174, 0);
+    box-shadow: 3px 3px black;
+    border: 2px solid black;
+    font-weight: bolder;
+}
+
+
+.definition {
+    font-size: 25px;
+    margin-right: 100px;
+}
+
+.definition a{
+    color: blue;
+}
+
+.add{
+    border: 2px solid black;
+    padding:10px;
+    height: 120px;
+    margin:20px;
+    margin-right: 130px;  
+    width: 300px;
+}
+
+.add P{
+    font-size: 30px;
+}
+
+.add button{
+    font-size: 20px;
+    margin: 20px;
+    width: 220px;
+    background-color: rgb(32, 129, 32);
+    border: 2px solid black;
+    box-shadow: 3px 3px black;
+}
+
+/*layertwo*/
+
+
+
+.layertwo{
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding:20px;
+    height: 150px;
+    margin: 20px;
+    width: 700px;
+    margin-left: 320px;
+    
+}
