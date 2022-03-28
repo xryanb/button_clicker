@@ -3,13 +3,18 @@
     padding:0;
   
 }
+
+
+body{
+    width:100%;
+}
 /* TOP */
 .top{
     background-color: grey;
     text-align: center;
     width: 65%;
     margin: auto;
-    padding:10px 20px;
+    padding:10px 25px;
 }
 
 .nav{
@@ -42,9 +47,10 @@
 
 .first{
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     justify-content: space-evenly;
-    width: 100%;
+width: 90%;
+    margin: auto;
 }
 
 .layer{
@@ -55,9 +61,7 @@
     padding:20px;
     height: 150px;
     margin: 20px;
-    width: 700px;
-    margin-left: 135px;
-    
+    width: 700px;  
 }
 
 .ninja{
@@ -92,7 +96,6 @@
     padding:10px;
     height: 120px;
     margin:20px;
-    margin-right: 130px;  
     width: 300px;
 }
 
@@ -122,6 +125,6 @@
     height: 150px;
     margin: 20px;
     width: 700px;
-    margin-left: 320px;
+margin-left: 310px;
     
 }
