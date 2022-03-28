@@ -11,7 +11,6 @@ body{
 /* TOP */
 .top{
     background-color: grey;
-    text-align: center;
     width: 65%;
     margin: auto;
     padding:10px 25px;
@@ -46,10 +45,11 @@ body{
 /* first */
 
 .first{
+
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-width: 90%;
+    width: 90%;
     margin: auto;
 }
 
@@ -125,6 +125,6 @@ width: 90%;
     height: 150px;
     margin: 20px;
     width: 700px;
-margin-left: 310px;
+    margin-left: 310px;
     
 }
